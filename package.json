@@ -4,6 +4,7 @@
   "description": "NodeSchool Solutions by Jaz for Elementary Electron workshopper",
   "main": "index.js",
   "dependencies": {
+    "elementary-electron": "^1.3.6"
   },
   "devDependencies": {},
   "scripts": {
