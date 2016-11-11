@@ -1,5 +1,5 @@
-# nodeschool-javascripting
-My solutions to Nodeschool javascripting. Some in coffee-script
+# nodeschool-elementary-electron
+My solutions to Nodeschool elementary-electron. Some in coffee-script
 
 NodeSchool is great for reviewing and filling in the gaps!
 
@@ -12,12 +12,12 @@ coffee -c --output compiled ./
 ```
 Then run
 ```
-node_modules/.bin/javascripting
+node_modules/.bin/elementary-electron
 ```
 
 Run against my solutions in this directory.
 
 See
 
-* http://nodeschool.io/madison/five/index.html
-* https://github.com/sethvincent/javascripting
+* http://nodeschool.io/madison/six/index.html
+* https://github.com/maxogden/elementary-electron
